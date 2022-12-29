@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+
+*{
+  font-family: 'Titillium Web', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.col-9{
+  background-image: url(images/back\ img.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fontawesome i{
+  background-color: black;
+  padding: 1%;
+  color: #ffffff;
+  border-radius: 50%;
+}
+
+p{
+  width: 50%;
+}
